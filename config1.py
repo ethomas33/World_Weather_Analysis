@@ -1,3 +1,3 @@
-weather_api_key="b11ddb4c8cc0761bb3d8b478bdda89d8"
+weather_api_key="a34c5db7da92343a2d615935a929dec6"
 # google maps key
-g_key = "AIzaSyCu_stTeEU3BrMIKGRurY2cO65cHHyk818"
+g_key = "AIzaSyDHSkllzes8ZdsZCJMjJ6aEHpwjA9LR4lw"
